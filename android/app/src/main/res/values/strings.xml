@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">EmergencyMesh</string>
+    <string name="onboarding_title">Welcome to EmergencyMesh</string>
+    <string name="onboarding_description">Decentralized emergency communication</string>
+    <string name="nickname_hint">Enter your nickname</string>
+    <string name="continue_button">Continue</string>
+    <string name="settings">Settings</string>
+    <string name="relay_mode">Relay Mode</string>
+    <string name="connected_peers">Connected Peers</string>
+    <string name="bluetooth_status">Bluetooth</string>
+    <string name="messages">Messages</string>
+    <string name="no_messages">No messages yet</string>
+    <string name="send_message">Send Message</string>
+    <string name="data_retention">Data Retention</string>
+    <string name="scanning_frequency">Scanning Frequency</string>
+    <string name="about">About</string>
+</resources>
